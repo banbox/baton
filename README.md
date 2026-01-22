@@ -2,6 +2,13 @@
 
 [中文文档](README_cn.md)
 
+> [!WARNING]
+> **This project has migrated!**
+> To avoid a PyPI package name conflict, this project has been officially renamed to **`aibaton`**.
+> This repository (`baton`) is no longer maintained. Please migrate to the new repository as soon as possible.
+> 
+> **New Repository:** [github.com/banbox/aibaton](https://github.com/banbox/aibaton)
+
 **Headless Agent Automation** — Python wrapper for codex/claude CLI, enabling arbitrarily complex agent automation/workflows through programmable prompts.
 
 ## Features

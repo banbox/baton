@@ -2,6 +2,13 @@
 
 [English](README.md)
 
+> [!WARNING]
+> **此项目已迁移！**
+> 为了避免 PyPI 包名冲突，本项目已正式更名为 **`aibaton`**。
+> 此仓库 `baton` 将不再维护，请尽快迁移到新地址。
+> 
+> **新仓库地址：** [github.com/banbox/aibaton](https://github.com/banbox/aibaton)
+
 **Headless Agent自动化** — codex/claude CLI 的 Python 封装，基于可编程提示词实现任意复杂的agent自动化/工作流。
 
 ## 特性
